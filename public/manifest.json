@@ -6,7 +6,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "sample-qr-web-app.onrender",
-  "start_url": "/sample-qr",
+  "start_url": "/",
   "theme_color": "#ffffff",
   "icons": [
     {
