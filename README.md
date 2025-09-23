@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## About Author
+Name: Le Dinh Phuc
+Class: 22GIT
+University: Vietnam – Korea University of Information and Communication Technology
+
 ## About project
 This project is about create, and read QR code from text (optional) and Link.
 Keyword: Reactjs, Tailwindcss, qrcode
