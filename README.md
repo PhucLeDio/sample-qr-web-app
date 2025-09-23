@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## About Author
 Name: Le Dinh Phuc
+
 Class: 22GIT
+
 University: Vietnam – Korea University of Information and Communication Technology
 
 ## About project
